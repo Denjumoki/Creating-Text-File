@@ -34,11 +34,18 @@ namespace FrmLab1
             string docPath2 = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
             StreamWriter outputFile = new StreamWriter(Path.Combine(docPath2, setFileName));
 
-            string[] info = { "Student No.: " + getStudentNo, "FullName:" + getFirstName + " " + getMiddleName + ". " + getLastName, "Program:" +getList + "Age: " + getAge, "Birthday:" + getBirthday, "ContactNo.: " + getContactNo };
+            string[] info = { "Student No.: " + getStudentNo, "FullName:" + getFirstName + " " + getMiddleName + ". " + getLastName, "Program: " +getList, "Age: " + getAge, "Birthday:" + getBirthday, "ContactNo.: " + getContactNo };
             Console.Write(getStudentNo);
             foreach(string i in info)
             outputFile.WriteLine(i);
             outputFile.Close();
+            Close();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FrmStudentRecord record = new FrmStudentRecord();
+            record.ShowDialog();
             Close();
         }
     }

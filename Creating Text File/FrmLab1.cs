@@ -34,7 +34,7 @@ namespace FrmLab1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            FrmRegistration reg = new FrmRegistration();
+            FrmStudentRecord reg = new FrmStudentRecord();
             reg.ShowDialog();
         }
     }

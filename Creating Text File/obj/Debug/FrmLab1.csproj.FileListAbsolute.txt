@@ -23,3 +23,17 @@ C:\Users\Jhon Real Luis\source\repos\FrmLab2\obj\Debug\FrmLab1.csproj.GenerateRe
 C:\Users\Jhon Real Luis\source\repos\FrmLab2\obj\Debug\FrmLab1.csproj.CoreCompileInputs.cache
 C:\Users\Jhon Real Luis\source\repos\FrmLab2\obj\Debug\FrmLab1.exe
 C:\Users\Jhon Real Luis\source\repos\FrmLab2\obj\Debug\FrmLab1.pdb
+C:\Users\Jhon Real Luis\source\repos\Creating Text File\bin\Debug\FrmLab1.exe.config
+C:\Users\Jhon Real Luis\source\repos\Creating Text File\bin\Debug\FrmLab1.exe
+C:\Users\Jhon Real Luis\source\repos\Creating Text File\bin\Debug\FrmLab1.pdb
+C:\Users\Jhon Real Luis\source\repos\Creating Text File\obj\Debug\FrmLab1.csproj.AssemblyReference.cache
+C:\Users\Jhon Real Luis\source\repos\Creating Text File\obj\Debug\FrmLab1.FrmLab1.resources
+C:\Users\Jhon Real Luis\source\repos\Creating Text File\obj\Debug\FrmLab1.FrmFileName.resources
+C:\Users\Jhon Real Luis\source\repos\Creating Text File\obj\Debug\FrmLab1.FrmOpenTextFile.resources
+C:\Users\Jhon Real Luis\source\repos\Creating Text File\obj\Debug\FrmLab1.FrmRegistration.resources
+C:\Users\Jhon Real Luis\source\repos\Creating Text File\obj\Debug\FrmLab1.Properties.Resources.resources
+C:\Users\Jhon Real Luis\source\repos\Creating Text File\obj\Debug\FrmLab1.csproj.GenerateResource.cache
+C:\Users\Jhon Real Luis\source\repos\Creating Text File\obj\Debug\FrmLab1.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Real Luis\source\repos\Creating Text File\obj\Debug\FrmLab1.exe
+C:\Users\Jhon Real Luis\source\repos\Creating Text File\obj\Debug\FrmLab1.pdb
+C:\Users\Jhon Real Luis\source\repos\Creating Text File\obj\Debug\FrmLab1.FrmStudentRecord.resources
